@@ -113,3 +113,4 @@ plugins:
 
     # Forestry integration plugins.
     - jekyll-menus
+theme: minima
